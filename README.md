@@ -19,7 +19,7 @@ npm start
 
 ## Demo
 
-- [Live Demo](https://github-finder-reactapp.vercel.app/)
+- [Watch Live Demo](https://github-finder-reactapp.vercel.app/)
                      
   
 ## Authors
